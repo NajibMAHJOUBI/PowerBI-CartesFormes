@@ -5,6 +5,9 @@ Les éléments de ce repo servent à accompagner un [article Linkedin](https://w
 
 Dans le répertoire *[data](data/)*, vous trouverez les données utilisées pour l'article : 
 
+- [Naissances Tunisie.csv](data/Naissances Tunisie.csv) : Nombre de naissances en 2022 par gouvernorat en Tunisie
+- [Decoupage Tunisie.json](data/Decoupage%20Tunisie.geojson) : Découpage administratif en gouvernorat du territoire tunisien au format GeoJSON
+- [Mapshaper](data/Mapshaper Tunisie.json) : Découpage administratif en gouvernorat du territoire tunisien au format TopoJSON
 
 
 Dans le répertoire *power_bi*, vous trouverez le fichier .pbix 
