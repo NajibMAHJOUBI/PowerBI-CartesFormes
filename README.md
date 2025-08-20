@@ -25,13 +25,13 @@ Pour cela; il faudra réaliser les étapes suivantes :
 
 -  Modifier le paramètre **FilePath**
 
-    1. Sélectioner le paramètre **FilePath** depuis le volet **Requêtes**
+1. Sélectioner le paramètre **FilePath** depuis le volet **Requêtes**
 
-    2. Cliquer sur le bouton **Gérer le paramètre**
+2. Cliquer sur le bouton **Gérer le paramètre**
 
-    3. Modifier le champ **Valeur actuelle** pour qu'il indique le chemin du fichier [Naissances Tunisie.csv](data/Naissances%20Tunisie.csv) sur votre machine locale
+3. Modifier le champ **Valeur actuelle** pour qu'il indique le chemin du fichier [Naissances Tunisie.csv](data/Naissances%20Tunisie.csv) sur votre machine locale
 
-    4. Cliquer sur le bouton **OK**
+4. Cliquer sur le bouton **OK**
 
 
 ![alt text](<images/GitHub 01.png>)
